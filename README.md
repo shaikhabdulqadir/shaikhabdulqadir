@@ -13,7 +13,7 @@ Every great developer you know got there by solving problems they were unqualifi
 Skills: PHP Laravel / NodeJS / Adonis / VueJS / Python Flask / MVP / MVVM / Web Services (REST) / Bug Fixing, Unit Testing / Software Design Patterns.
 
 - 🔭 &ensp; I’m currently working on Backend Development (PHP Laravel, NodeJS)
-- 🌱 &ensp; I'm currently learning Flutter, Swift & more ❤️
+- 🌱 &ensp; I'm currently learning Information Security & more ❤️
 - ⚡ &ensp; Fun fact: I love coding.⭐
 
 ### Connect With Me
@@ -32,12 +32,9 @@ Skills: PHP Laravel / NodeJS / Adonis / VueJS / Python Flask / MVP / MVVM / Web 
 
 ### Languages and Tools
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt=“Laravel” width="26px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />][Laravel]
+[<img align="left" alt=“VueJS” width="26px" src="https://www.vectorlogo.zone/logos/vue/vue-icon.svg" />][VueJS]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
-[<img align="left" alt=“Swift” width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />][swift]
-[<img align="left" alt=“Kotlin” width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
 
 <br />
