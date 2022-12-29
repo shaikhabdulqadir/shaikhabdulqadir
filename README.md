@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://shaikhabdulqadir.github.io">Shaikh Abdul Qadir</a></h1>
-<h3 align="center">Full Stack Application Developer 😜</h3>
+<h3 align="center">Full Stack Developer 😜</h3>
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/shaikhabdulqadir?label=Github%20followers&style=for-the-badge" alt="shaikhabdulqadir" />
